@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+
+<!ELEMENT student (Multimedia, Web-design, Graphics, Logical) >
+<!ATTLIST student
+   name	CDATA	#REQUIRED >
+<!ELEMENT table (student+) >
+<!ELEMENT Multimedia (#PCDATA) >
+<!ELEMENT Web-design (#PCDATA) >
+<!ELEMENT Graphics (#PCDATA) >
+<!ELEMENT Logical (#PCDATA) >
+
+<!ENTITY margo "fir" >

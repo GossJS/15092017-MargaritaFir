@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC "MargaritaFir" "http://kodaktor.ru/j/dtd_53414">
+<table>
+		<student name = "Ivanov">
+			<Multimedia>3</Multimedia>
+			<Web-design>4</Web-design>
+			<Graphics>5</Graphics>
+			<Logical>3</Logical>
+		</student>
+		<student name = "Петров">
+			<Multimedia>3</Multimedia>
+			<Web-design>4</Web-design>
+			<Graphics >5</Graphics>
+			<Logical>3</Logical>
+		</student>
+		<student name = "Whoever">
+			<Multimedia>&margo;</Multimedia>
+			<Web-design>4</Web-design>
+			<Graphics>5</Graphics>
+			<Logical>3</Logical>
+		</student>
+</table>

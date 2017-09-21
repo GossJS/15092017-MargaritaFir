@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!ELEMENT myportfolio (frontend|webdesign)*>
+<!ELEMENT frontend (competency*)>
+<!ELEMENT webdesign (competency*)>
+<!ELEMENT competency EMPTY>
+
+
+<!ATTLIST competency
+   in	CDATA	#REQUIRED 
+value CDATA	#REQUIRED>

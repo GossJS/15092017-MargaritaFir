@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE myportfolio PUBLIC "MargaritaFir" "http://kodaktor.ru/j/dtd_32f3d">
+
+<myportfolio>
+	<frontend>
+	   <competency in="HTML" value="good"/>
+	   <competency in="CSS" value="worse, but not bad"/>
+	   <competency in="SQL" value="good"/>
+
+	</frontend>
+	<webdesign>
+		<competency in="Adobe Photoshop" value="good"/>
+		<competency in="Adobe Illustrator" value="good"/>
+		
+	</webdesign>
+</myportfolio>
+
+
+

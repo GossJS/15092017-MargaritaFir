@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE stats PUBLIC "MargaritaFir" "https://kodaktor.ru/j/dtd_a1ebf">
+<stats>
+    <visits>
+        <station>
+            <platform name="Windows">87</platform>
+            <platform name="Linux">8</platform>
+            <platform name="Mac OS">6</platform>
+        </station>
+        <mobile>
+            <platform name="iOS">10</platform>
+            <platform name="Android">5</platform>
+        </mobile>
+    </visits>
+    <ips>
+        <ip addr="077.234.203.101" frequency="12"/>
+        <ip addr="005.144.096.251" frequency="11"/>
+        <ip addr="081.222.086.058" frequency="6"/>
+        <ip addr="094.019.018.060" frequency="4"/>
+        <ip addr="005.164.066.173" frequency="4"/>
+    </ips>
+</stats>
